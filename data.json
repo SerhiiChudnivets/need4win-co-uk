@@ -5,7 +5,7 @@
   "url": "need4win.co.uk",
   "template": "tupchiy",
   "language_code": "en-GB",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -263,9 +263,9 @@
       "question": "What should I do if my personal details change?"
     }
   ],
-  "_generated_at": "2026-10-23T12:15:54.014Z",
+  "_generated_at": "2026-10-23T12:19:49.155Z",
   "_version": "1.0.0",
   "content_alt": "need4win casino games",
-  "_last_deploy": "2026-10-23T12:15:54.672Z",
-  "_deploy_trigger": "1whkc"
+  "_last_deploy": "2026-10-23T12:19:49.755Z",
+  "_deploy_trigger": "s8iagb"
 }
