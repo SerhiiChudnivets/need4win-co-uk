@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /trackback/
 Disallow: /play/*
 
-Sitemap: https://royaldogs-casino.uk/sitemap.xml
+Sitemap: https://need4win.co.uk/sitemap.xml
