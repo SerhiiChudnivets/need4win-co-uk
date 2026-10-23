@@ -78,7 +78,7 @@
   "subdomains": null,
   "accent_color": "#334155",
   "main_background": "#171717",
-  "secondary_background": "#eeeeee",
+  "secondary_background": "#6b6b6b",
   "button_background": "#edf027",
   "button_text_color": "#000000",
   "text_color": "#e4e4f1",
@@ -263,9 +263,9 @@
       "question": "What should I do if my personal details change?"
     }
   ],
-  "_generated_at": "2026-10-23T12:12:31.274Z",
+  "_generated_at": "2026-10-23T12:15:54.014Z",
   "_version": "1.0.0",
   "content_alt": "need4win casino games",
-  "_last_deploy": "2026-10-23T12:12:32.061Z",
-  "_deploy_trigger": "k182vf"
+  "_last_deploy": "2026-10-23T12:15:54.672Z",
+  "_deploy_trigger": "1whkc"
 }
